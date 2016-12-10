@@ -1,5 +1,5 @@
 # hello-world
 readme
 
-this id Balaji,
+this is Balaji,
 welcome to all..!!
